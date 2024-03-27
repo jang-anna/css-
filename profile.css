@@ -1,0 +1,22 @@
+* {
+  text-align: center;
+}
+
+html {
+  background-color: aqua;
+}
+body {
+  width: 640px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+img {
+  width: 200px;
+}
+p {
+  font-size: 1.5rem;
+}
